@@ -1,5 +1,5 @@
 {
-  "assets": "https://thomasariyanto.com/test.tar.gz",
+  "assets": "https://github.com/hbdvirgi/hbdvirgi.github.io/blob/main/assets/test.tar.gz?raw=true",
   "screen": [
     {
       "id": 1,
@@ -9,7 +9,7 @@
     },
     {
       "id": 2,
-      "text": "test github...",
+      "text": "test github baru...",
       "x": 10,
       "y": 40
     }
