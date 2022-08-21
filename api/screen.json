@@ -1,0 +1,17 @@
+{
+  "assets": "https://hbdvirgi.github.io/assets/test.tar.gz",
+  "screen": [
+    {
+      "id": 1,
+      "text": "Happy Birthday Sayang!",
+      "x": 10,
+      "y": 10
+    },
+    {
+      "id": 2,
+      "text": "Semoga panjang umur mantapp...",
+      "x": 10,
+      "y": 40
+    }
+  ]
+}
