@@ -1,5 +1,5 @@
 {
-  "assets": "https://hbdvirgi.github.io/assets/test.tar.gz",
+  "assets": "https://thomasariyanto.com/test.tar.gz",
   "screen": [
     {
       "id": 1,
@@ -9,7 +9,7 @@
     },
     {
       "id": 2,
-      "text": "Semoga panjang umur mantapp...",
+      "text": "test github...",
       "x": 10,
       "y": 40
     }
