@@ -2,16 +2,90 @@
   "assets": "https://raw.githubusercontent.com/hbdvirgi/hbdvirgi.github.io/main/assets/test.tar.gz",
   "screen": [
     {
-      "id": 1,
-      "text": "Happy Birthday Sayang!",
-      "x": 10,
-      "y": 10
+      "sid": "01",
+      "type": "textxy",
+	  "background" : "1",
+	  "interval" : "2000",
+      "component": [
+        {
+          "id": 1,
+          "text": "Happy Birthday Sayang!",
+		  "color": "2",
+		  "size":"3",
+          "x": 10,
+          "y": 10
+        },
+        {
+          "id": 2,
+          "text": "test github baru...",
+		  "color": "3",
+		  "size":"3",
+          "x": 10,
+          "y": 40
+        }
+      ]
     },
     {
-      "id": 2,
-      "text": "test github baru...",
-      "x": 10,
-      "y": 40
+      "sid": "02",
+      "type": "text",
+	  "background" : "1",
+	  "interval" : "2000",
+      "text": "ini text yg panajngagagagaaga banget banget angesbdkjsbdkasjdasd",
+	  "text_color": "2",
+	  "text_size": "2"
+    },
+	{
+      "sid": "03",
+      "type": "jpg",
+	  "interval" : "2000",
+      "filename": "/assets/1.jpg"
+    },
+	{
+      "sid": "04",
+      "type": "jpg",
+	  "interval" : "2000",
+      "filename": "/assets/2.jpg"
+    },
+	{
+      "sid": "05",
+      "type": "jpg",
+	  "interval" : "2000",
+      "filename": "/assets/3.jpg"
+    },{
+      "sid": "06",
+      "type": "jpg",
+	  "interval" : "2000",
+      "filename": "/assets/4.jpg"
+    },{
+      "sid": "07",
+      "type": "jpg",
+	  "interval" : "2000",
+      "filename": "/assets/5.jpg"
+    },{
+      "sid": "08",
+      "type": "jpg",
+	  "interval" : "2000",
+      "filename": "/assets/6.jpg"
+    },{
+      "sid": "09",
+      "type": "jpg",
+	  "interval" : "2000",
+      "filename": "/assets/7.jpg"
+    },{
+      "sid": "10",
+      "type": "jpg",
+	  "interval" : "2000",
+      "filename": "/assets/8.jpg"
+    },{
+      "sid": "11",
+      "type": "jpg",
+	  "interval" : "2000",
+      "filename": "/assets/9.jpg"
+    },{
+      "sid": "12",
+      "type": "jpg",
+	  "interval" : "2000",
+      "filename": "/assets/10.jpg"
     }
   ]
 }
