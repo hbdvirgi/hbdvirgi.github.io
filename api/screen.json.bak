@@ -81,6 +81,11 @@
       "type": "jpg",
 	  "interval" : "2000",
       "filename": "/assets/9.jpg"
+    },{
+      "sid": "12",
+      "type": "jpg",
+	  "interval" : "2000",
+      "filename": "/assets/10.jpg"
     }
   ]
 }
